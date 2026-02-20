@@ -110,7 +110,6 @@ RESUME_DATA = {
     "phone": "412-218-5555",
     "location": "Athens, GA",
     "linkedin": "linkedin.com/in/daniel-w-6113b9268/",
-    "github": "github.com/ComicPuzzle",
     "summary": """
     I'm a senior engineering student at the University of Georgia looking for a full-time position in data analysis or embedded engineering. I'm well versed in Python, SQL, and various ML frameworks. """,
     "experience": [
