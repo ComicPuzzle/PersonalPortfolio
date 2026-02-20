@@ -173,7 +173,6 @@ with st.sidebar:
     st.markdown("### Quick Links")
     st.markdown(f"📧 {RESUME_DATA['email']}")
     st.markdown(f"🔗 [{RESUME_DATA['linkedin']}](https://{RESUME_DATA['linkedin']})")
-    st.markdown(f"💻 [{RESUME_DATA['github']}](https://{RESUME_DATA['github']})")
 
 # Main content area
 if st.session_state.current_page == 'home':
